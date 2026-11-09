@@ -8,7 +8,7 @@ const OG_IMAGE = `${SITE_URL}/og.png`;
 const getSchema = () => ({
   '@context': 'http://schema.org',
   '@type': 'Person',
-  name: 'Evangelos (Giats) Giatsidis',
+  name: 'Ojokheta (Ojokay) Donald',
   jobTitle: 'Senior Frontend Developer',
   url: SITE_URL,
   image: OG_IMAGE,
@@ -32,7 +32,7 @@ function CustomHead({ title = '', description, keywords }) {
         <meta name="robots" content={process.env.NODE_ENV !== 'development' ? 'index,follow' : 'noindex,nofollow'} />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         <meta name="keywords" content={keywords && keywords.length ? keywords.join(',') : keywords} />
-        <meta name="author" content="Evangelos (Giats) Giatsidis" />
+        <meta name="author" content="Ojokheta (Ojokay) Donald" />
         <meta name="referrer" content="no-referrer" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="geo.region" content="US" />

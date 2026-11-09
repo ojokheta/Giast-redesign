@@ -7,12 +7,12 @@ import Clients from '@src/pages/components/clients/Index';
 import CustomHead from '@src/components/dom/CustomHead';
 
 const seo = {
-  title: 'Giats - Frontend Developer Portfolio',
+  title: 'Ojokay - Frontend Developer Portfolio',
   description:
-    'Self-taught front-end developer from Greece, crafting sleek and efficient web, desktop, and mobile apps. Combining creativity and technical skill to deliver innovative user-centric solutions.',
+    'Front-end developer based in Ibadan, Nigeria, crafting sleek and efficient web, desktop, and mobile apps. Combining creativity and technical skill to deliver innovative user-centric solutions.',
   keywords: [
-    'Giats',
-    'Evangelos Giatsidis',
+    'Ojokay',
+    'Ojokheta Donald',
     'Frontend',
     'Engineer',
     'Portfolio',
@@ -25,7 +25,7 @@ const seo = {
     'Freelance Developer',
     'Modern Web Development',
     'cross-platform development',
-    'Greek',
+    'Nigerian',
     'JavaScript',
     'Typescript',
     'Next.js',
